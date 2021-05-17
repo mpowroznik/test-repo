@@ -1,0 +1,4 @@
+backend:
+- name: test-repo
++ name: github
++ repo: mpowroznik/test-repo
